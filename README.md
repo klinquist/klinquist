@@ -11,3 +11,5 @@ I listen to podcasts such as ATP, The Smoking Tire, 99% Invisible, Carmudgeon, a
 I drink craft beer and go camping.
 
 I've got an awesome wife and [yellow lab](https://targa.dog).
+
+Check out my personal homepage, [https://www.linquist.com](https://www.linquist.com)
