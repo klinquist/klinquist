@@ -12,4 +12,13 @@ I drink craft beer and go camping.
 
 I've got an awesome wife and ~~[yellow lab](https://targa.dog)~~.
 
-Check out my personal homepage, [https://www.linquist.com](https://www.linquist.com)
+Some of my personal projects:
+
+-   [MotorLogBook](https://www.motorlogbook.com): Keep track of your vehicle maintenance.
+-   [POTAParkPics](https://www.potaparkpics.com): Upload your photos from Parks On The Air (ham radio) expeditions.
+-   [Caltrain Live](https://www.caltrain.live): Caltrain schedule and delays.
+-   [Caltrain Companion for iOS](https://apps.apple.com/us/app/caltrain-companion/id6737343619): Caltrain schedule and delays.
+-   [Offline Spotter for iOS](https://apps.apple.com/us/app/offline-spotter-for-pota-sota/id6740120163): Spot yourself for Parks On The Air (ham radio) using SMS over Satellite.
+-   [AWS + Terraform Personal Web Hosting](https://github.com/klinquist/tf-aws-s3-cf-template): Host your own website on AWS using Terraform.
+
+Check out more on my personal homepage, [https://www.linquist.com](https://www.linquist.com)
